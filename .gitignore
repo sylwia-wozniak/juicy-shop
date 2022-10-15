@@ -1,0 +1,16 @@
+# User-specific stuff
+.idea/
+
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+
+#cypress
+cypress/downloads/*
